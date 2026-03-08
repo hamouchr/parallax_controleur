@@ -1,0 +1,7 @@
+<launch>
+         
+  
+  
+	
+	<node  name = "controleur"  pkg = "parallax_control"  type = "controleur" output = "screen" />
+</launch>
